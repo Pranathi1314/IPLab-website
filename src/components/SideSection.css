@@ -1,0 +1,18 @@
+/* SideSection.css */
+.side-section {
+    background-color: #2d0a84d6;
+    padding: 20px;
+    width: 200px;
+    color:white;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,14 @@
+/* Image.css */
+.image-container {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  img {
+    max-width: 100%;
+    margin-left:-150px ;
+    width: 1250px;
+    height: 500px;
+    display: block;
+  }
+  

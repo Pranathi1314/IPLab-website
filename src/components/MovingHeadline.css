@@ -1,0 +1,20 @@
+/* MovingHeadline.css */
+.moving-headline {
+    background-color:#2d0a84d6;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: moveHeadline 10s linear infinite;
+  }
+  
+  @keyframes moveHeadline {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  

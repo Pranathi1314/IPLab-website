@@ -1,0 +1,20 @@
+/* Header.css */
+header {
+    background-color: #ece7e7;
+    color: #5a98f5;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    height:150px;
+    width: 500px;
+    margin-left: 00px;
+  }
+  
+  .college-name {
+    font-size: 18px;
+  }
+  
